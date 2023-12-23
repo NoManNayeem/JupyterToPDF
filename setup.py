@@ -4,7 +4,7 @@ setup(
     name='JupyterToPDF',
     version='0.1',
     author='Nayeem Islam',
-    author_email='your-email@example.com',  # Replace with your email
+    author_email='nayeem60151126@gmail.com',  # Replace with your email
     description='A simple tool to convert Jupyter notebooks to PDF',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
