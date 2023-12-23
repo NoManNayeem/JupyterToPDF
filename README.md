@@ -28,6 +28,7 @@ Here's how to use `JupyterToPDF`:
 
 ```python
 from JupyterToPDF import convert_notebook_to_pdf
+```
 
 # Convert a notebook to PDF and save in a specific output folder
 convert_notebook_to_pdf('path/to/notebook.ipynb', 'path/to/output/folder')
